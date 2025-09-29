@@ -1,0 +1,15 @@
+GAMMA = 0.24
+RAYLEIGH = 1e4
+PHI = 6
+FACTOR = 4.45
+GRAVITY = false
+DT = 1e-5
+STOP = 0.1
+Nr = 128
+NPhi = 96
+NTheta = 64
+SAFETY = 3
+NOISE = 1e-3
+BC = "CoreCooling"
+TempProf = "RefProf"
+DIR_SAVE = "Datas"
