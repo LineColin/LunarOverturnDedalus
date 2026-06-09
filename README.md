@@ -93,7 +93,7 @@ DIR_SAVE/
 ## Notes
 - The script uses the SBDF1 timestepper by default.
 - For high-resolution simulations, increase `Nr`, `Nphi`, and `Ntheta` accordingly.
-- The CFL condition is automatically adjusted for stability, be carreful.
+- The CFL condition is adjusted for stability, it can be > 1 for high Ra and low $\Phi$ be carreful.
 
 ---
 
